@@ -11,12 +11,18 @@ p{
 h2{
     text-align: center;
 }
-#gears{
-    background-image: url("images/gears.jpg");
-}
 h5{
     text-align: center;
 }
 .input{
     text-align: center;
+}
+.col{
+    margin: 10px;
+}
+.column-image{
+    padding: 5px;
+}
+#laptop{
+    background-image: url('images/laptop.jpeg');
 }
