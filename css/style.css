@@ -24,7 +24,9 @@ h5{
     padding: 5px;
 }
 #laptop{
-    background-image: url('images/laptop.jpeg');
+    background-image: url('./images/laptop.jpeg');
+    color: white;
+    min-height: 200px;
 }
 #gears{
     color: white;
