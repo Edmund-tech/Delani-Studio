@@ -11,3 +11,12 @@ p{
 h2{
     text-align: center;
 }
+#gears{
+    background-image: url("images/gears.jpg");
+}
+h5{
+    text-align: center;
+}
+.input{
+    text-align: center;
+}
