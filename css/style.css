@@ -16,6 +16,7 @@ h5{
 }
 .input{
     text-align: center;
+    color: black;
 }
 .col{
     margin: 10px;
@@ -29,7 +30,8 @@ h5{
     min-height: 200px;
 }
 #gears{
-    color: white;
+    background-color: transparent;
+    color: white    ;
 }
 .centre{
     text-align: center;
