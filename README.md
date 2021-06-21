@@ -11,6 +11,11 @@ This is my third project.Hope you'll love it.
 To run Delani Studio on your machine,use the following steps:
 `git clone <Delani-Studio>`
 `cd<Edmund-tech>`
+## Technologies used
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 ## Prerequisites
 A text editor preferrably Visual Studio Code
 ## Lisense:[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
